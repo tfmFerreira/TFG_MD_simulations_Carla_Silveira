@@ -1,0 +1,53 @@
+vi nome - abre ou crea un ficheiro co nome "nome"
+cat nome - mostra o conteudo do ficheiro "nome"
+
+CHARMMGUI
+
+input Generator
+Membrane Builder
+Bilayer Builder
+
+Membrane only system - Next step
+
+Hydration number - numero de moleculas por un lipid 
+(Sara exp. - DSPC (40 %wt de auga - dicir 60 %wt DSPC e 40 %wt H2O)
+
+escoller e incluir lipidos 
+
+show system info - todo listo - next step
+
+non cambiar nada
+sen ions
+step 3
+next step
+step 4
+next step
+
+step 5 
+
+escoller campo de forza 
+- CHARMM36m
+
+Input Generation Options 
+- GROMACS
+- NPT ensemble
+- Temperature - confirmar que estamos riba da transicion para fase fluida 
+
+step 6
+
+gardar sistema - download .tgz
+
+
+Copiar JOB ID 
+
+
+
+
+Simulacions a facer (para xa)
+DSPC/H2O
+DSPC/cholesterol/H2O
+Cerebrosito/H2O
+Cerebrosito/cholesterol/H20 
+
+*Cerebrosito - sphingolipid GalCer 18:0  
+
